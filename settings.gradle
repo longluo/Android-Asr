@@ -1,0 +1,6 @@
+
+rootProject.name = "AndroidAsr"
+
+include ':app'
+include ':vosk'
+include ':models'
